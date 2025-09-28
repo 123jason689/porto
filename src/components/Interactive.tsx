@@ -12,7 +12,7 @@ const Interactive: React.FC = () => {
     {
       icon: Eye, 
       title: 'Artificial Intelligence',
-      description: 'PyTorch, Computer Vision, Tensorflow, LLM'
+      description: 'CV, PyTorch, Tensorflow, LLM, LangGraph'
     },
     {
       icon: BrainCircuit,

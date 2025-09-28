@@ -74,7 +74,7 @@ const Hero: React.FC = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.6 }}
           >
-            Bridging the quantum realms of{' '}
+            Bridging realms of{' '}
             <span className="text-quantum font-semibold">embedded systems</span>,{' '}
             <span className="text-plasma font-semibold">AI/ML</span>, and{' '}
             <span className="text-nebula font-semibold">Web apps</span> to create disruptive technological experiences.

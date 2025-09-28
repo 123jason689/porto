@@ -23,7 +23,7 @@ const Header: React.FC = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5 }}
           >
-            <span className="text-quantum font-bold text-xl glitch" data-text="Jason H">Jason H</span>
+            <span className="text-quantum font-bold text-xl glitch" data-text="J M H">J M H</span>
           </motion.div>
 
           <div className="hidden md:block">
