@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Staychaintion",
+    "summary": "A Web3‑powered AI platform for short‑term property rentals on the Internet Computer combining Motoko canisters for decentralized trust, AI‑driven pricing, and an assistant chatbot (StayAI).",
+    "role": "Backend lead — designed and implemented storage, data seeding, backend APIs, canister integrations, and frontend connectivity; managed AI service integration and deployment workflows (dfx).",
+    "features": "Blockchain‑secured transactions, decentralized trust via Motoko canisters, AI smart pricing service, StayAI chatbot, data seeders, deployment scripts and demo data, frontend API integration (Axios).",
+    "tech": "Motoko (canisters), dfx (Internet Computer tooling), TypeScript (frontend), Node.js, Python (model training & FastAPI prediction), Jupyter notebooks, Axios.",
+    "achievement": "First place in the competition; production‑grade backend integrations with documentation, pitch deck, and demo video.",
+    "next": "Improve model accuracy, harden canister storage patterns for scale, automate dfx CI/CD, and expand StayAI's conversational capabilities and safety checks.",
+    "color": "from-violet-600 to-purple-600",
+    "highlights": [
+      "Web3 + AI integration",
+      "Backend lead (storage & APIs)",
+      "Competition winner (1st place)"
+    ]
+  },
+  {
+    "title": "Moorgan-IoT",
+    "summary": "An IoT system for convenient and efficient cattle health monitoring that collects low‑power sensor data and provides telemetry, analytics, and alerts for livestock management.",
+    "role": "Team contributor focused on firmware and system integration to ensure reliable sensor telemetry and device behavior in farm environments.",
+    "features": "Sensor data acquisition, local preprocessing, reliable telemetry to edge/cloud, farmer‑friendly design and alerting.",
+    "tech": "C++, C (firmware and low‑level drivers); standard IoT connectivity patterns (MQTT/HTTP gateways implied).",
+    "achievement": "Top‑10 finish in the Microsoft ElevAIte hackathon with a validated prototype and working telemetry pipeline.",
+    "next": "Expand sensor coverage, add OTA updates and telemetry dashboards, integrate ML for anomaly detection, and prepare for field trials.",
+    "color": "from-amber-600 to-orange-600",
+    "highlights": [
+      "Livestock health telemetry",
+      "Low‑power firmware",
+      "Hackathon top‑10"
+    ]
+  },
+  {
+    "title": "Vemer",
+    "summary": "A full‑stack, gamified volunteer and activity management platform for youth—organizers publish activities and volunteers earn points, badges, and levels displayed on leaderboards.",
+    "role": "Full‑stack coordination and API↔frontend integration across separate backend and frontend repositories.",
+    "features": "RESTful API (routes/v1/api.php), secure authentication (Google SSO), activity creation & management, custom badges, leaderboards, personalized dashboards, Supabase storage integration.",
+    "tech": "Backend — PHP (Laravel), PostgreSQL, Supabase (storage); Frontend — TypeScript/JavaScript, Vite, Tailwind CSS; dev tooling: Composer, Node.js, Laravel artisan.",
+    "achievement": "Complete backend and frontend repos with installation guides and documented API endpoints; working platform for organizers and volunteers.",
+    "next": "Expand publisher tools (badge editor, analytics), refine frontend UX flows, scale auth & storage, and add monitoring for activity lifecycle.",
+    "color": "from-blue-600 to-cyan-600",
+    "highlights": [
+      "Gamified volunteering",
+      "Organizer dashboards",
+      "Leaderboard & badges"
+    ]
+  },
+  {
+    "title": "Beta-Indonesia",
+    "summary": "An interactive platform designed to teach and promote Indonesian culture through playful, gamified learning experiences that encourage user engagement and cultural preservation.",
+    "role": "Contributor on the contest submission, focusing on interactive content and engagement mechanics.",
+    "features": "Interactive learning modules, gamified progression, content designed to increase cultural interaction and retention.",
+    "tech": "TypeScript (main app), JavaScript (support), Python (data/processing), CSS.",
+    "achievement": "Submitted to GemasTIK Software Development 2025 as a contest entry showcasing cultural education features.",
+    "next": "Add engagement analytics, iterate UX to boost interaction, expand content modules and localization.",
+    "color": "from-green-600 to-emerald-600",
+    "highlights": [
+      "Cultural education",
+      "Gamified learning",
+      "Contest submission"
+    ]
+  },
+  {
+    "title": "Golden Trash",
+    "summary": "An automatic rubbish‑sorting smart bin that classifies waste using a YOLOv5 computer vision model and actuates sorting with an embedded controller (ESP32).",
+    "role": "Engineered the end‑to‑end pipeline: model training and inference integration with embedded firmware and actuation logic.",
+    "features": "YOLOv5‑based classification, ESP32 firmware for actuation, embedded control logic, basic monitoring/dashboard.",
+    "tech": "Python (YOLOv5 training & inference pipelines), C++/C (ESP32 firmware), JavaScript + HTML (UI/dashboard).",
+    "achievement": "Completed as a university course project demonstrating edge CV deployment and embedded integration.",
+    "next": "Optimize inference latency and power consumption, extend dataset/class coverage, and add real‑time telemetry/analytics.",
+    "color": "from-lime-600 to-green-600",
+    "highlights": [
+      "Edge CV deployment",
+      "ESP32 actuation",
+      "Academic project"
+    ]
+  },
+  {
+    "title": "LLM benchmark",
+    "summary": "A reproducible research study comparing popular LLM/chatbot capabilities on competitive programming problems, measuring correctness, reasoning, and solution quality.",
+    "role": "Research lead — designed experiments, orchestrated benchmarks, and analyzed model performance with notebooks.",
+    "features": "Benchmark problem set, reference C++ solutions and harnesses, automated evaluation pipeline, notebooks for metrics and visualization.",
+    "tech": "C++ (reference solutions/harness), Jupyter Notebooks, Python (analysis & orchestration).",
+    "achievement": "Reproducible notebooks and experimental framework ready for publication or extension.",
+    "next": "Expand model coverage, build error taxonomy for failure modes, and prepare results for publication.",
+    "color": "from-rose-600 to-pink-600",
+    "highlights": [
+      "LLM benchmarking",
+      "Reproducible experiments",
+      "C++ ground truth harness"
+    ]
+  },
+  {
+    "title": "Chrono-Cubo",
+    "summary": "A versatile physical alarm + timer device for multi‑step routines that supports user‑uploaded MP3 alarm sounds, persistent customizable timers, and optional phone alerts via Alertzy.",
+    "role": "Core firmware and integration engineer implementing device storage, alerting logic, and phone notification flows.",
+    "features": "User MP3 alarm uploads, saved/customizable alarms and routines, optional phone push notifications via Alertzy, planned Google Calendar sync.",
+    "tech": "C++ (embedded firmware), C, Python (integration tools), Alertzy API for notifications.",
+    "achievement": "Prototype in development with core functionality implemented; requires further iteration for a polished MVP.",
+    "next": "Finalize reliable storage and sync features, implement robust alarm upload UX, and optimize networked notification reliability and power usage.",
+    "color": "from-indigo-600 to-sky-600",
+    "highlights": [
+      "Custom MP3 alarms",
+      "Persistent timers",
+      "Device → phone notification"
+    ]
+  },
+  {
+    "title": "Compvis-Test",
+    "summary": "A research/prototype for natural‑language video object and action querying to search for objects/actions across single or multiple videos—targeted at surveillance, long‑form editing, and efficient content search.",
+    "role": "Lead prototyping and pipeline development for temporal detection, indexing, and textual query retrieval.",
+    "features": "Temporal object/action detection, video indexing and retrieval, multi‑video aggregation, evaluation and prototype UI tooling.",
+    "tech": "Python (vision models & retrieval), FFmpeg and video processing tools, shell automation, possible transformer/CV model integrations.",
+    "achievement": "Early prototype with working experiments and tooling for retrieval; active development ongoing.",
+    "next": "Integrate temporal detectors and retrieval index, build query UI, evaluate on long‑form datasets, and optimize latency for practical use.",
+    "color": "from-sky-600 to-indigo-600",
+    "highlights": [
+      "Natural language video search",
+      "Temporal action detection",
+      "Long‑form video tooling"
+    ]
+  }
+]
