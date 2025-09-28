@@ -14,7 +14,7 @@ const App: React.FC = () => {
       <Router>
         <main className="min-h-screen">
           <Routes>
-            <Route path="/porto" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
           <ToastContainer
