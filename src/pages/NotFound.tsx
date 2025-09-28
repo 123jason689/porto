@@ -78,7 +78,7 @@ const NotFound: React.FC = () => {
           className="flex flex-col sm:flex-row items-center gap-4"
         >
           <a
-            href="/"
+            href="/porto/"
             className="group inline-flex items-center gap-2 rounded-full bg-quantum px-8 py-3 text-sm font-semibold tracking-wide text-darkmatter shadow-[0_0_25px_rgba(0,245,212,0.5)] transition-all hover:scale-105 hover:shadow-[0_0_40px_rgba(0,245,212,0.7)]"
           >
             <Home className="h-4 w-4" /> Return Home
